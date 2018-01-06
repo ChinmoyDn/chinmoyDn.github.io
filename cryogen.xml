@@ -12,17 +12,17 @@ http://blogawesome.com/
 This blog is awesome
 </description>
 <lastBuildDate>
-Sat, 06 Jan 2018 11:12:14 +0530
+Sat, 06 Jan 2018 11:15:36 +0530
 </lastBuildDate>
 <generator>
 clj-rss
 </generator>
 <item>
 <guid>
-http://blogawesome.com/blog/posts-output/2016-01-07-docs/
+http://blogawesome.com/posts-output/2016-01-07-docs/
 </guid>
 <link>
-http://blogawesome.com/blog/posts-output/2016-01-07-docs/
+http://blogawesome.com/posts-output/2016-01-07-docs/
 </link>
 <title>
 Quick Start Guide
